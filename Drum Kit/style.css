@@ -10,6 +10,17 @@ h1 {
   text-shadow: 3px 0 #DA0463;
 }
 
+a{
+  color: #406882;
+  font-family: Merriweather;
+  font-size: 25px;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #EFF6F6;
+}
+
 .set {
   margin: 10% auto;
 }
@@ -68,4 +79,9 @@ h1 {
 footer {
   color: white;
   font-size: 1rem;
+}
+
+.bottom-container {
+  padding: 15px;
+  background-color: #B1D0E0;
 }
