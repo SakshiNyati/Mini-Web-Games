@@ -3,6 +3,17 @@ body {
   background-color: #011F3F;
 }
 
+a{
+  color: #406882;
+  font-family: Merriweather;
+  font-size: 25px;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover {
+  color: #EFF6F6;
+}
+
 #level-title {
   font-family: 'Press Start 2P', cursive;
   font-size: 3rem;
@@ -50,4 +61,9 @@ body {
 .pressed {
   box-shadow: 0 0 20px white;
   background-color: grey;
+}
+
+.bottom-container {
+  padding: 15px;
+  background-color: #B1D0E0;
 }
